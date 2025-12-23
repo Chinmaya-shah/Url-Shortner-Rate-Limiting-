@@ -159,7 +159,7 @@ Analytics dashboard
 Deployment to cloud platform
 ```
 
-###👨‍💻 Author
+👨‍💻 Author
 ---
 ```
 Built as a backend engineering learning project focusing on real-world API design, middleware, database modeling, and production practices.
