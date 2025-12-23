@@ -165,12 +165,3 @@ Deployment to cloud platform
 Built as a backend engineering learning project focusing on real-world API design, middleware, database modeling, and production practices.
 ```
 
----
-
-### ✅ What to do next (important)
-
-1. Save this as `README.md`
-2. Commit it:
-```bash
-git add README.md
-git commit -m "Add project README"
